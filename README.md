@@ -45,4 +45,5 @@ export const disabledButton = () => <Button isDisabled={true}>Click Me</Button>;
 ```
 ## React As An HTML Templating Engine
 React is a robust user interface library, but it can also function in a more limited capacity as a capable HTML templating engine. By outputting components created with React and JSX as static HTML, they can be fed directly into Storybook for HTML stories. The ReactDOMServer package includes a method that does just this: [renderToStaticMarkup](https://reactjs.org/docs/react-dom-server.html#rendertostaticmarkup). The React to HTML decorator accepts a React component and utilizes the `renderToStaticMarkup` method to return an HTML string.
+
 Writing HTML components in React provides many advantages, including the JSX syntax, props, composition, code reuse, and the full power of JavaScript itself. However, since these components are converted to static HTML, React runtime features such as state management and user interaction callbacks are not applicable.
