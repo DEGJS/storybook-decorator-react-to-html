@@ -1,0 +1,40 @@
+{
+  "name": "@degjs/storybook-decorator-react-to-html",
+  "version": "1.0.0",
+  "description": "A Storybook decorator for rendering a React component to static HTML",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "storybook",
+    "react",
+    "html"
+  ],
+  "author": {
+    "name": "Ryan Heap",
+    "email": "heaper@gmail.com"
+  },
+  "license": "ISC",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/DEGJS/storybook-decorator-react-to-html.git"
+	},
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "peerDependencies": {
+    "react": "^16.13.1"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.11.0",
+    "@babel/preset-react": "^7.10.4",
+    "babel-jest": "^26.2.2",
+    "jest": "^26.2.2",
+    "react": "^16.13.1"
+  }
+}
