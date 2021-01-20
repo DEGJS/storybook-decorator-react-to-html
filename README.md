@@ -1,4 +1,6 @@
 # storybook-decorator-react-to-html
+![Run Tests](https://github.com/DEGJS/storybook-decorator-react-to-html/workflows/Run%20Tests/badge.svg)
+
 A [Storybook for HTML](https://storybook.js.org/docs/guides/guide-html/) decorator that converts a React component into a static HTML string. If you're wondering why you would ever want to do something like this, read the [React As An HTML Templating Engine](#react-as-an-html-templating-engine) section below.
 
 ## Install

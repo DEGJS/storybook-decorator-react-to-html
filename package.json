@@ -20,13 +20,13 @@
   },
   "license": "ISC",
   "repository": {
-		"type": "git",
-		"url": "https://github.com/DEGJS/storybook-decorator-react-to-html.git"
+    "type": "git",
+    "url": "https://github.com/DEGJS/storybook-decorator-react-to-html.git"
   },
   "bugs": "https://github.com/DEGJS/storybook-decorator-react-to-html/issues",
   "publishConfig": {
-		"access": "public"
-	},
+    "access": "public"
+  },
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
