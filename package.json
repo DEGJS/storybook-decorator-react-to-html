@@ -1,6 +1,6 @@
 {
   "name": "@degjs/storybook-decorator-react-to-html",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Storybook decorator for rendering a React component to static HTML",
   "main": "index.js",
   "files": [
